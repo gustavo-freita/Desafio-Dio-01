@@ -1,0 +1,20 @@
+•	É um software de versionamento de código.
+
+1.	Dir (lista de diretórios na pasta que está)
+2.	CD (muda entre as pastas)
+3.	CD.. (volta um nível anterior)
+4.	CLS (limpa o terminal) 
+5.	Tecla TAB (autocompleta o comando)
+6.	MKDIR (cria uma pasta)
+7.	Echo “nome” > “nome”.txt (cria um arquivo)
+8.	Rmdir “nome da pasta” /s /q (deleta a pasta e o conteúdo dela)
+
+•	Chaves SSH – comando para gerar a chave ssh (ssh-keygen -t ed25519 -C gustavofreitas_silva@hotmail.com) 
+•	 cd /c/users/gusta/.ssh/ (ir até onde está a chave)
+•	Cat “id da chave pública” 
+•	Eval $(ssh-agent -s) ativar o agente 
+•	Ssh-add “id privado” (para o agent)
+•	Git init (inicia a gerência e versiona o código) 
+•	Ls -a (mostra arquivos ocultos)]
+•	Git config - -global user.email “seu email”
+•	Git config - -global user.name 
